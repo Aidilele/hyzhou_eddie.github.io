@@ -33,15 +33,12 @@ Work experience
 * 2022.4-2022.10: Research Assistant
     * Aviation Industry Corporation of China (AVIC) - China Aviation Research
     * Contribution: Designed and developed a reinforcement learning-based stall recovery control system for large
-      aircraft (Boeing 737-800).
+      aircraft (Boeing 737-800).<br>
       Designed and developed a reinforcement learning-based spin recovery control system for fighter
-      jets (F-16).
-
+      jets (F-16).<br>
       During the project, two optimization methods were proposed to make the model performance
-      surpass traditional control methods:
-  
-      -Two-stage reward function model fusion
-  
+      surpass traditional control methods:<br>
+      -Two-stage reward function model fusion<br>
       -Action value exponential filtering
     * Supervisor: Prof.Qiujun Wang
 
