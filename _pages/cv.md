@@ -36,9 +36,12 @@ Work experience
       aircraft (Boeing 737-800).
       Designed and developed a reinforcement learning-based spin recovery control system for fighter
       jets (F-16).
+
       During the project, two optimization methods were proposed to make the model performance
       surpass traditional control methods:
+  
       -Two-stage reward function model fusion
+  
       -Action value exponential filtering
     * Supervisor: Prof.Qiujun Wang
 
