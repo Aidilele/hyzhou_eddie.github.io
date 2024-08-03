@@ -11,54 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* B.S. Electronic Engineering, Xidian University, 2021
+  * GPA 3.6/4.0
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.10-2023.9 : Research Assistant
+    * Microsoft - Microsoft Research Asia - Machine Learning Group
+    * Contribution: During my time at Microsoft Research Asia, I was solely responsible for a research project. The
+      purpose of this project was to use reinforcement learning and graph neural networks to solve a
+      complex combinatorial optimization problem - the Flexible Job Shop Scheduling Problem (FJSP). I
+      built a simulator to simulate the process of solving this problem and proposed a method that
+      combines generative (Learning to Generate) and improvement (Learning to Improve) approaches to
+      achieve better results than other methods in the literature. This work is currently being submitted to the ICLR2024, and the
+      code for the related work has been uploaded to my Github homepage.
+    * Supervisor: Song Lei
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2022.4-2022.10: Research Assistant
+    * Aviation Industry Corporation of China (AVIC) - China Aviation Research
+    * Contribution: Designed and developed a reinforcement learning-based stall recovery control system for large
+      aircraft (Boeing 737-800).
+      Designed and developed a reinforcement learning-based spin recovery control system for fighter
+      jets (F-16).
+      During the project, two optimization methods were proposed to make the model performance
+      surpass traditional control methods:
+      -Two-stage reward function model fusion
+      -Action value exponential filtering
+    * Supervisor: Prof.Qiujun Wang
+
+* 2021.4-2021.7: Research Intern
+    * Hikvision Research Institute
+    * Contribution: During my internship, I built a reinforcement learning-based robotic arm control system. The
+      purpose of this system is to use a deep reinforcement learning network to control a seven-degree-of freedom
+      robotic arm to automatically search for negative class samples required by the target model.
+    * Supervisor: YingBian
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Python
+* C++
+* Matlab
+* JavaScripts
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
