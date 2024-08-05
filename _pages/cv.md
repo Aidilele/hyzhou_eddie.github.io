@@ -30,6 +30,7 @@ Work experience
       code for the related work has been uploaded to my Github homepage.
     * Supervisor: Dr. Lei Song
 ***
+
 * 2022.4-2022.10: __Research Assistant__
     * __Aviation Industry Corporation of China (AVIC) - China Aviation Research__
     * __Contribution__: Designed and developed a reinforcement learning-based stall recovery control system for large
