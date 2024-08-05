@@ -28,7 +28,7 @@ Work experience
       combines generative (Learning to Generate) and improvement (Learning to Improve) approaches to
       achieve better results than other methods in the literature. This work is currently being submitted to the ICLR2024, and the
       code for the related work has been uploaded to my Github homepage.
-    * Supervisor: Dr. Lei Song
+    * __Supervisor__: Dr. Lei Song
 ***
 
 * 2022.4-2022.10: __Research Assistant__
