@@ -28,7 +28,6 @@ Work experience
       code for the related work has been uploaded to my Github homepage.
     * __Supervisor__: Dr. Lei Song
 ---
-
 * <img src="../images/avic.jpg" alt="Alt text" title="Optional title" style="height:2em;">2022.4-2022.10: __Research Assistant__
     * __Aviation Industry Corporation of China (AVIC) - China Aviation Research__
     * __Contribution__: Designed and developed a reinforcement learning-based stall recovery control system for large
@@ -46,7 +45,7 @@ Work experience
     * __Contribution__: During my internship, I built a reinforcement learning-based robotic arm control system. The
       purpose of this system is to use a deep reinforcement learning network to control a seven-degree-of freedom
       robotic arm to automatically search for negative class samples required by the target model.
-    * __Supervisor__: YingBian
+    * __Supervisor__: Ying Bian
 
 Skills
 ======
