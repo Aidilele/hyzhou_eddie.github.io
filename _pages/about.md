@@ -16,9 +16,9 @@ I am looking for a PhD opportunity for 2025 intake. Feel free to get in touch if
 
 Interests
 ======
-Deep Reinforcement Learning
-Combination Optimization
-Multi-agent System
-Graph neural network
+* Deep Reinforcement Learning
+* Combination Optimization
+* Multi-agent System
+* Graph neural network
 
 
