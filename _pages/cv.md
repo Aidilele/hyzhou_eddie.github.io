@@ -38,7 +38,7 @@ Work experience
       surpass traditional control methods:<br>
       -Two-stage reward function model fusion<br>
       -Action value exponential filtering
-    * __Supervisor__: Prof. Qiujun Wang
+    * __Supervisor__: Prof. Junqiu Wang
 ---
 * <img src="../images/hikvision.jpg" alt="Alt text" title="Optional title" style="height:2em;">2021.4-2021.7: __Research Intern__
     * __Hikvision Research Institute__
