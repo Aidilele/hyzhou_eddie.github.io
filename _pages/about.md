@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Biography
+======
 My research mainly focuses on Reinforcement Learning (RL) and Graph neural network (GNN), including diffusion model,
 multi-agent system. I got my B.S. degree in Electronic Engineering from Xidian University(XDU), advised by [Prof.
 Guangming Shi](https://see.xidian.edu.cn/faculty/gmshi/)
