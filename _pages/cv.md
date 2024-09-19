@@ -59,7 +59,7 @@ Work&Research experience
 
 * <img src="../images/hikvision.jpg" alt="Alt text" title="Optional title" style="height:2em;">2021.4-2021.7: __Algorithm
   Intern__
-    * __Hikvision Research Institute__
+    * __Hikvision Research Institute-Pre Research Group__
     * __Contribution__: During my internship, I built a reinforcement learning-based robotic arm control system. The
       purpose of this system is to use a deep reinforcement learning network to control a seven-degree-of freedom
       robotic arm to automatically search for negative class samples required by the target model.
