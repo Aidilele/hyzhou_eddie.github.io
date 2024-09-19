@@ -13,6 +13,7 @@ Education
 
 * B.S. Electronic Engineering, Xidian University, 2021
     * GPA 3.6/4.0
+    * Rank 21/114
 
 Work&Research experience
 ======
