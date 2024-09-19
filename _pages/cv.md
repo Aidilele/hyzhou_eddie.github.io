@@ -29,8 +29,7 @@ Work&Research experience
       achieve better results than other methods in the literature. This work is currently being submitted to the
       ICLR2024, and the
       code for the related work has been uploaded to my Github homepage.
-    * __Mentor
-      __: [Dr. Song Lei](https://www.microsoft.com/en-us/research/people/lesong/),[Dr. Weidong Ma](https://scholar.google.com/citations?user=d0p1mp4AAAAJ&hl=en)
+    * __Mentor__: [Dr. Song Lei](https://www.microsoft.com/en-us/research/people/lesong/),[Dr. Weidong Ma](https://scholar.google.com/citations?user=d0p1mp4AAAAJ&hl=en)
 
 ---
 
@@ -39,8 +38,7 @@ Work&Research experience
     * __BaiDu Research - PARL Group__
     * __Contribution__: During my time at Baidu, I am responsible for participating in the development and maintenance
       of [PARL](https://github.com/PaddlePaddle/PARL), an open source reinforcement learning framework.
-    * __Mentor
-      __:Bo Zhou
+    * __Mentor__:Bo Zhou
 
 ---
 
