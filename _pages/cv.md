@@ -18,8 +18,8 @@ Work&Research experience
 ======
 ---
 
-* <img src="../images/microsoft.jpg" alt="Alt text" title="Optional title" style="height:2em;">2022.11-2023.9 : _
-  _Research Assistant__
+* <img src="../images/microsoft.jpg" alt="Alt text" title="Optional title" style="height:2em;">2022.11-2023.9 : 
+  __Research Assistant__
     * __Microsoft - Microsoft Research Asia - Machine Learning Group__
     * __Contribution__: During my time at Microsoft Research Asia, I was solely responsible for a research project. The
       purpose of this project was to use reinforcement learning and graph neural networks to solve a
@@ -57,7 +57,7 @@ Work&Research experience
 
 ---
 
-* <img src="../images/hikvision.jpg" alt="Alt text" title="Optional title" style="height:2em;">2021.4-2021.7: __Research
+* <img src="../images/hikvision.jpg" alt="Alt text" title="Optional title" style="height:2em;">2021.4-2021.7: __Algorithm
   Intern__
     * __Hikvision Research Institute__
     * __Contribution__: During my internship, I built a reinforcement learning-based robotic arm control system. The
