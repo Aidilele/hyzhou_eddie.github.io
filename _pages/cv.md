@@ -33,7 +33,7 @@ Work&Research experience
 
 ---
 
-* <img src="../images/baidu.png" alt="Alt text" title="Optional title" style="height:2em;">2022.11-2023.9 : _
+* <img src="../images/baidu.png" alt="Alt text" title="Optional title" style="height:2em;">2022.9-2022.11 : _
   _Research Intern__
     * __BaiDu Research - PARL Group__
     * __Contribution__: During my time at Baidu, I am responsible for participating in the development and maintenance
