@@ -18,7 +18,7 @@ Work&Research experience
 ======
 ---
 
-* <img src="../images/microsoft.jpg" alt="Alt text" title="Optional title" style="height:2em;">2022.10-2023.9 : _
+* <img src="../images/microsoft.jpg" alt="Alt text" title="Optional title" style="height:2em;">2022.11-2023.9 : _
   _Research Assistant__
     * __Microsoft - Microsoft Research Asia - Machine Learning Group__
     * __Contribution__: During my time at Microsoft Research Asia, I was solely responsible for a research project. The
@@ -34,7 +34,17 @@ Work&Research experience
 
 ---
 
-* <img src="../images/avic.jpg" alt="Alt text" title="Optional title" style="height:2em;">2022.4-2022.10: __Research
+* <img src="../images/baidu.png" alt="Alt text" title="Optional title" style="height:2em;">2022.11-2023.9 : _
+  _Research Intern__
+    * __BaiDu Research - PARL Group__
+    * __Contribution__: During my time at Baidu, I am responsible for participating in the development and maintenance
+      of PARL, an [open source reinforcement learning framework](https://github.com/PaddlePaddle/PARL).
+    * __Mentor
+      __:Bo Zhou
+
+---
+
+* <img src="../images/avic.jpg" alt="Alt text" title="Optional title" style="height:2em;">2022.4-2022.9: __Research
   Assistant__
     * __Aviation Industry Corporation of China (AVIC) - China Aviation Research__
     * __Contribution__: Designed and developed a reinforcement learning-based stall recovery control system for large
