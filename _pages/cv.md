@@ -14,7 +14,7 @@ Education
   * GPA 3.6/4.0
 
 
-Work experience
+Work&Research experience
 ======
 ---
 * <img src="../images/microsoft.jpg" alt="Alt text" title="Optional title" style="height:2em;">2022.10-2023.9 : __Research Assistant__
@@ -26,7 +26,7 @@ Work experience
       combines generative (Learning to Generate) and improvement (Learning to Improve) approaches to
       achieve better results than other methods in the literature. This work is currently being submitted to the ICLR2024, and the
       code for the related work has been uploaded to my Github homepage.
-    * __Supervisor__: Dr. Lei Song
+    * __Supervisor__: [Dr. Song Lei](https://www.microsoft.com/en-us/research/people/lesong/)
 ---
 * <img src="../images/avic.jpg" alt="Alt text" title="Optional title" style="height:2em;">2022.4-2022.10: __Research Assistant__
     * __Aviation Industry Corporation of China (AVIC) - China Aviation Research__
