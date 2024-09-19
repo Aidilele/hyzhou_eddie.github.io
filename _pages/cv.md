@@ -38,7 +38,7 @@ Work&Research experience
   _Research Intern__
     * __BaiDu Research - PARL Group__
     * __Contribution__: During my time at Baidu, I am responsible for participating in the development and maintenance
-      of PARL, an [open source reinforcement learning framework](https://github.com/PaddlePaddle/PARL).
+      of [PARL](https://github.com/PaddlePaddle/PARL), an open source reinforcement learning framework.
     * __Mentor
       __:Bo Zhou
 
