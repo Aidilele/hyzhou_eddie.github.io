@@ -33,8 +33,8 @@ Work&Research experience
 
 ---
 
-* <img src="../images/baidu.png" alt="Alt text" title="Optional title" style="height:2em;">2022.9-2022.11 : _
-  _Research Intern__
+* <img src="../images/baidu.png" alt="Alt text" title="Optional title" style="height:2em;">2022.9-2022.11 : 
+  __Research Intern__
     * __BaiDu Research - PARL Group__
     * __Contribution__: During my time at Baidu, I am responsible for participating in the development and maintenance
       of [PARL](https://github.com/PaddlePaddle/PARL), an open source reinforcement learning framework.
