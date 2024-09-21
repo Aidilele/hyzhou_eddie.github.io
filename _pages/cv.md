@@ -18,7 +18,7 @@ Education
 Competition Awards
 ======
 ---
-* 2018 ACM-ICPC China Invitational Contest Xi'an Site Silver Medal
+* 2018 ACM-ICPC China Invitational Contest Silver Medal
 <img src="../images/2018icpc_award.png" alt="Alt text">
 
 Work&Research experience
