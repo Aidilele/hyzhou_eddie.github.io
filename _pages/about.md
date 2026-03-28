@@ -13,7 +13,7 @@ My research mainly focuses on Reinforcement Learning (RL) and Graph neural netwo
 multi-agent system. I got my B.S. degree in Electronic Engineering from Xidian University(XDU) fortunately supervised
 by [Prof. Guangming Shi](https://see.xidian.edu.cn/faculty/gmshi/).
 
-I am looking for a PhD opportunity for 2025 intake. Feel free to get in touch if you are interested.
+I am looking for a PhD opportunity for 2023 FALL -2024 SPRING intake. Feel free to get in touch if you are interested.
 
 
 Interests
